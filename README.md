@@ -4,7 +4,7 @@
 This repo tracks my progress on reading K&R C, including any exercises and toy
 programs I create as tangents to the reading.
 
-- [ ] Chapter 01 - A Tutorial Introduction
+- [x] Chapter 01 - A Tutorial Introduction
 - [ ] Chapter 02 - Types, Operators, and Expressions
 - [ ] Chapter 03 - Control Flow
 - [ ] Chapter 04 - Functions and Program Structure
