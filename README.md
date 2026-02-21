@@ -9,10 +9,6 @@ programs I create as tangents to the reading.
 - [x] Chapter 03 - Control Flow
 - [x] Chapter 04 - Functions and Program Structure
 - [x] Chapter 05 - Pointers and Arrays
-- [ ] Chapter 06 - Structures
-- [ ] Chapter 07 - Input and Output
+- [x] Chapter 06 - Structures
+- [x] Chapter 07 - Input and Output
 - [ ] Chapter 08 - The UNIX System Interface
-
-- [ ] Appendix A - Reference Manual
-- [ ] Appendix B - Standard Library
-- [ ] Appendix C - Summary of Changest
