@@ -11,4 +11,4 @@ programs I create as tangents to the reading.
 - [x] Chapter 05 - Pointers and Arrays
 - [x] Chapter 06 - Structures
 - [x] Chapter 07 - Input and Output
-- [ ] Chapter 08 - The UNIX System Interface
+- [x] Chapter 08 - The UNIX System Interface
