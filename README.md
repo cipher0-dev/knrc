@@ -1,5 +1,7 @@
 
-# The C Programming Language - Brian W. Kernighan and Dennis M. Ritchie
+# The C Programming Language
+
+### Brian W. Kernighan and Dennis M. Ritchie
 
 This repo tracks my progress on reading K&R C, including any exercises and toy
 programs I create as tangents to the reading.
