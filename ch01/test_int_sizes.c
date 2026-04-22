@@ -16,6 +16,7 @@ int main(int argc, char *argv[]) {
   PRINT_SIZEOF(int);
   PRINT_SIZEOF(long);
   PRINT_SIZEOF(long long);
+  PRINT_SIZEOF(size_t);
 
   printf("\nFLOATS:\n");
   PRINT_SIZEOF(float);
